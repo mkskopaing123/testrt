@@ -1,0 +1,5 @@
+cinemagoer
+tgcrypto
+pyrogram
+motor
+dnspython
